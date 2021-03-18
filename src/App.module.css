@@ -1,0 +1,10 @@
+.appWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonGroup button {
+    margin-right: 10px;
+}

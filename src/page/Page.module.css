@@ -1,0 +1,8 @@
+.displayWrapper {
+    margin-top: 30px;
+    display: Grid;
+    grid-template-columns: repeat(
+    auto-fill, minmax(10px, 10px)
+    );
+    gap: 0;
+}
